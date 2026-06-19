@@ -258,6 +258,18 @@ Cybersecurity is essential for protecting student information, academic records,
 * Faster recovery from incidents
 * Increased trust among students, staff, and stakeholders
 
+
+CyberSecurity_Task_02_Lin/
+
+│── CIA_Triad_Research.docx
+│── Cyber_Attack_Case_Study.docx
+│── Risk_Assessment_Table.docx
+│── Threat_Analysis.docx
+│── Security_Recommendations.docx
+│── Consultant_Report.docx
+│── README.md
+
+
 --Conclusion ---
 
 By adopting these cybersecurity practices, the college can significantly reduce security risks, protect sensitive information, and maintain reliable digital services. Continuous monitoring, employee awareness, and proactive security measures are key to building a strong cybersecurity posture.
