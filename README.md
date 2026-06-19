@@ -1,9 +1,9 @@
- CIA Triad & Risk Assessment
+ Cyber Security Task -- CIA Triad & Risk Assessment
 
 Part A: Understanding the CIA Triad :-
 
-1. Confidentiality
-   Definition
+1. Confidentiality Definition
+
 Confidentiality means ensuring that information is accessible only to authorized users. It prevents unauthorized individuals from viewing sensitive data.
 
 -> Why It Is Important
@@ -15,8 +15,8 @@ Helps organizations comply with privacy laws.
 Real-World Example
 A hospital stores patient medical records. Only doctors, nurses, and authorized staff can access these records. Unauthorized users are denied access.
 
-2. Integrity
-   Definition
+2. Integrity Definition
+
 Integrity means ensuring that data remains accurate, complete, and unaltered unless modified by authorized users.
 
 -> Why It Is Important
@@ -28,8 +28,8 @@ Reduces the risk of incorrect information.
 Real-World Example
 A university stores students' examination results. Only authorized faculty members can update grades, ensuring students receive accurate marks.
 
-3. Availability
-   Definition
+3. Availability Definition
+4. 
 Availability means ensuring that systems, applications, and data are accessible whenever authorized users need them.
 
 -> Why It Is Important
