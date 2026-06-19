@@ -33,7 +33,7 @@ Real-World Example
 A university stores students' examination results. Only authorized faculty members can update grades, ensuring students receive accurate marks.
 
 3. Availability Definition
-4. 
+   
 Availability means ensuring that systems, applications, and data are accessible whenever authorized users need them.
 
 -> Why It Is Important
@@ -230,7 +230,8 @@ Protects confidential information even if stolen.
     Importance:
 Detects suspicious activities early and reduces attack impact.
 
-Part F: Mini Security Consultant Report
+Part F: Mini Security Consultant Report :-
+
      Cybersecurity Improvement Report for College
      
   Introduction
