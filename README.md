@@ -261,4 +261,5 @@ Cybersecurity is essential for protecting student information, academic records,
 * Increased trust among students, staff, and stakeholders
 
 --Conclusion ---
+
 By adopting these cybersecurity practices, the college can significantly reduce security risks, protect sensitive information, and maintain reliable digital services. Continuous monitoring, employee awareness, and proactive security measures are key to building a strong cybersecurity posture.
