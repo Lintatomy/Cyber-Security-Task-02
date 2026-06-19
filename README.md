@@ -1,9 +1,6 @@
 Cyber Security Task 02: CIA Triad & Risk
 Assessment
 
-Name: Linta Tomy
-
-Task: Cyber Security Task 02
 
 
 
@@ -263,3 +260,8 @@ Cybersecurity is essential for protecting student information, academic records,
 --Conclusion ---
 
 By adopting these cybersecurity practices, the college can significantly reduce security risks, protect sensitive information, and maintain reliable digital services. Continuous monitoring, employee awareness, and proactive security measures are key to building a strong cybersecurity posture.
+
+
+Name: Linta Tomy
+
+Task: Cyber Security Task 02
