@@ -1,5 +1,4 @@
-Cyber Security Task 02
-CIA Triad & Risk Assessment
+Cyber Security Task 02: CIA Triad & Risk Assessment
 
 Name: Linta Tomy
 Task: Cyber Security Task 02
